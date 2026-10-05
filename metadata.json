@@ -1,0 +1,6 @@
+{
+  "name": "TASTATAS - Haute Epicurean Food Delivery",
+  "description": "Exclusive epicurean culinary delivery application with artisan dishes, real-time courier tracking, customized portions, and luxury checkout experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
